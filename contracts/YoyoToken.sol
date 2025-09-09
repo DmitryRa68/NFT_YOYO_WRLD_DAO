@@ -1,0 +1,1 @@
+// Placeholder for YOYO NFT smart contract
